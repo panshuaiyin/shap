@@ -13,3 +13,4 @@ from ._violin import violin
 from ._text import text
 from ._waterfall import waterfall
 
+initjs()
